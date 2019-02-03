@@ -1,4 +1,4 @@
-# OpenCV_test
+# OpenCV_Android_example
 App for testing installation of OpenCV in android
 
 # Buy Me A Coffee
